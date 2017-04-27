@@ -1,4 +1,4 @@
 /**
  * Created by Carlis on 4/27/2017.
  */
-package com.flym.web.action;
+package com.flym.web.controller;

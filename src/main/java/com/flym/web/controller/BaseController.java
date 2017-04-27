@@ -1,7 +1,7 @@
-package com.flym.web.action;
+package com.flym.web.controller;
 
 /**
  * Created by Carlis on 4/27/2017.
  */
-public class BaseAction {
+public class BaseController {
 }
